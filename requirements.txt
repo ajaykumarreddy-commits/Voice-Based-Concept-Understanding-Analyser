@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+sqlalchemy
+librosa
+soundfile
+reportlab
+matplotlib
+plotly
+google-generativeai
+python-multipart
+pydantic
+jinja2
+streamlit
+pandas
+numpy
+requests
