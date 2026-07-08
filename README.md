@@ -76,7 +76,7 @@ streamlit run frontend/app.py --server.port 8501
 3. **Analyze**: Click the **Analyze Explanation** button.
 4. **View Evaluation (Tab 1)**: Inspect your composite scores, transcripts, and AI-generated feedback (Strengths & Knowledge Gaps).
 5. **Analyze Signal Fluency (Tab 2)**: View audio signal metrics (Speech Rate in WPM, Filler Words count, Silence Pause Ratio) and zoomable DSP charts (Waveform & Mel-Spectrogram).
-6. **Download PDF & Track Progress (Tab 3)**: Download official PDF reports and track your conceptual mastery trends over time.
+6. **Download PDF & Track Progress (Tab 3)**: Download official PDF reports and track your conceptual mastery trends over time in real time.
 
 ---
 
